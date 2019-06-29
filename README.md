@@ -1,1 +1,2 @@
-# 1515a4
+# Sorting Assignment
+Assignment to track the time differences between sorting algorithms.
